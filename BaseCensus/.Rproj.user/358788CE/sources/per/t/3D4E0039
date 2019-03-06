@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550826382308.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3108836403",
+    "id" : "3D4E0039",
+    "lastKnownWriteTime" : 1512590614,
+    "last_content_update" : 1512590614,
+    "path" : "/media/n/6DEFCED45A78BAB8/workspace/Udemy/MachineLearningR/BaseCensus/pré_processamento_census.R",
+    "project_path" : "pré_processamento_census.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

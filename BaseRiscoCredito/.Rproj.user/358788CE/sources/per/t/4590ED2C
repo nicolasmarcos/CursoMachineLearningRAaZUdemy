@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551090518707.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4590ED2C",
+    "lastKnownWriteTime" : 1551090316,
+    "last_content_update" : 1551090518707,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BE0C0EEA",
+        "caption" : "teste_aprendizagem",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=teste_aprendizagem&cache_key=BE0C0EEA",
+        "displayedObservations" : 1,
+        "environment" : "",
+        "object" : "teste_aprendizagem",
+        "preview" : 0,
+        "totalObservations" : 1,
+        "variables" : 4
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

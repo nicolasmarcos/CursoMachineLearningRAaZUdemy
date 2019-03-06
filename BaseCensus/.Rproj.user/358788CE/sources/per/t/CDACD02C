@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551872502567.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "77429941",
+    "id" : "CDACD02C",
+    "lastKnownWriteTime" : 1551881858,
+    "last_content_update" : 1551881859000,
+    "path" : "/media/n/6DEFCED45A78BAB8/workspace/Udemy/MachineLearningR/BaseCensus/random_forest_census.R",
+    "project_path" : "random_forest_census.R",
+    "properties" : {
+        "cursorPosition" : "175,0",
+        "scrollLine" : "161",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551807648497.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "708658110",
+    "id" : "834D9374",
+    "lastKnownWriteTime" : 1551879963,
+    "last_content_update" : 1551879963207,
+    "path" : "/media/n/6DEFCED45A78BAB8/workspace/Udemy/MachineLearningR/random_forest_creditdata.R",
+    "project_path" : "random_forest_creditdata.R",
+    "properties" : {
+        "cursorPosition" : "97,11",
+        "scrollLine" : "84",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
